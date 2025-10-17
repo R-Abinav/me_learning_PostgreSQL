@@ -8,7 +8,6 @@ Mini‑apps and exercises using Express + EJS with PostgreSQL for persistence. I
 - `To Do List - Project/`
 - `World Capital Quiz/`
 - `World Flag Quiz/`
-- `Prisma/` (separate tutorial; excluded from internal README tasks)
 
 ### How to run
 1. `cd` into a project folder
